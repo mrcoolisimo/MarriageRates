@@ -1,0 +1,12 @@
+The program is designed to read through this excel file, 
+but the program is written to be easily adapted to any excel file with a similar format.
+
+The program contains input validation, 
+so it will automatically print what you typed into the legend with a capitalized first letter,
+and typoes are deleted
+
+The graph increases in size depending on how many states are requested.
+
+You will have to change the directory to match your own, containing the excel file.
+
+Its a bit messy, so I may come back and make the code easier to digest in the future.
